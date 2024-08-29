@@ -1,5 +1,5 @@
 Name:		python-s3fs
-Version:	2024.2.0
+Version:	2024.6.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/s3fs/s3fs-%{version}.tar.gz
 Summary:	Convenient Filesystem interface over S3
